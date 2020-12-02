@@ -1,4 +1,4 @@
-# Azure Immersion Workshop: IoT Central
+# Azure Virtual Workshop: IoT Central
 
 Lab time: 90 minutes
 
