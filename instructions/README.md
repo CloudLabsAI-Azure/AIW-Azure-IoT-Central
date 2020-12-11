@@ -16,15 +16,15 @@ In this workshop, you will learn how to deploy IoT Central Application Templates
 
 In this exercise you will learn how to get started with the existing IoT Central Connected logistics application template available in IoT Central for Asset Tracking Scenario
 
-## Exercise 2 - Customizing IoT Central Application
+## [Exercise 2 - Customizing IoT Central Application](https://github.com/CloudLabsAI-Azure/AIW-Azure-IoT-Central/blob/main/instructions/02.md)
 
 In this exercise you will learn how to add custom branding and operator resources to an Azure IoT Central application with white labeling options for a better visual fit with an organization’s other applications
 
-## Exercise 3 -	Connect IoT Plug and Play Certified Devices
+## [Exercise 3 -	Connect IoT Plug and Play Certified Devices](https://github.com/CloudLabsAI-Azure/AIW-Azure-IoT-Central/blob/main/instructions/03.md)
 
 In this exercise, you will see how to connect an IoT Plug and play certified devices to your existing IoT Central Application
 
-## Exercise 4 -	IoT Central Openness and Integrations
+## [Exercise 4 -	IoT Central Openness and Integrations](https://github.com/CloudLabsAI-Azure/AIW-Azure-IoT-Central/blob/main/instructions/04.md)
 
 In this exercise, you will see the openness and the integration capabilities of IoT Central, how to detect anomalies and trigger alerts as well as how to do a continuous data export from IoT Central
 
