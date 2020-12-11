@@ -12,7 +12,7 @@ Azure IoT Central encompasses a range of underlying technologies that work great
 
 In this workshop, you will learn how to deploy IoT Central Application Templates to rapidly build enterprise-grade IoT applications on a secure, reliable, and scalable infrastructure that optimize supply chains, improve experiences for customers, and track inventory more efficiently. You will see how Azure IoT Central enables the easy monitoring and management of a fleet of remote devices for logistics operations.
 
-## Exercise 1 - Getting Started with Azure IoT Central
+## [Exercise 1 - Getting Started with Azure IoT Central](https://github.com/CloudLabsAI-Azure/AIW-Azure-IoT-Central/blob/main/instructions/01.md)
 
 In this exercise you will learn how to get started with the existing IoT Central Connected logistics application template available in IoT Central for Asset Tracking Scenario
 
