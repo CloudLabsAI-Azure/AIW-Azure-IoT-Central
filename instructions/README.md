@@ -6,7 +6,7 @@ Azure IoT Central is an IoT application platform that simplifies the creation of
 
 Choosing to build with Azure IoT Central gives an opportunity to focus your time, money, and energy on transforming your business with IoT data, rather than just building the solution from the ground up. Maintaining, and updating a complex system and continually evolving IoT infrastructure.
 
-Azure IoT Central encompasses a range of underlying technologies that work great, but can be complicated to implement when many technologies are needed. These technologies include Azure IoT Hub, the Azure Device Provisioning System (DPS), Azure Maps, Azure Time Series Insights, Azure IoT Edge, and others. It's only necessary to use these technologies directly, if more granularity is needed than available through IoT Central.
+Azure IoT Central encompasses a range of underlying technologies that include Azure IoT Hub, the Azure Device Provisioning System (DPS), Azure Maps, Azure Time Series Insights, Azure IoT Edge, and others. It's only necessary to use these technologies directly if more granularity is needed than available through IoT Central.
 
 ## Lab context
 
