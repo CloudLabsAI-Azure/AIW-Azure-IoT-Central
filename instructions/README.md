@@ -2,7 +2,7 @@
 
 Lab time: 90 minutes
 
-Azure IoT Central is a solution development platform that simplifies IoT device connectivity, configuration, and management. The platform significantly reduces the burden and costs of IoT device management, operations, and related developments. Customers & partners can build an end to end enterprise solutions to achieve a digital feedback loop in logistics. 
+Azure IoT Central is an IoT application platform that simplifies the creation of IoT solutions. Azure IoT Central simplifies the initial setup of your IoT solution and reduces the management burden, operational costs, and overhead of a typical IoT project. It also speeds up the time to market with industry specific templates, integration capabilities and openness. 
 
 Choosing to build with Azure IoT Central gives an opportunity to focus your time, money, and energy on transforming your business with IoT data, rather than just building the solution from the ground up. Maintaining, and updating a complex system and continually evolving IoT infrastructure.
 
